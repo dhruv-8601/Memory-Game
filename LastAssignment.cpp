@@ -1,12 +1,6 @@
 ﻿/*******************************************************
-Student Name:           Dhruv Patel
-Student No:				040-997-897
-Assignment name:		Memory Game
-Assignment Number:      3
-Course Name and Number:	CST8219 c++ Programming
-Lab Section:			302
-Due Date:				16 April 2021
-Submission Date:		16 April 2021
+Author Name:	Dhruv Patel
+Project name:	Memory Game
 *******************************************************/
 
 #include <nana/gui.hpp>
