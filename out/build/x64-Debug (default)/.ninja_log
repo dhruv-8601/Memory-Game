@@ -1,0 +1,16 @@
+# ninja log v5
+1	751	640309613	CMakeFiles/LastAssignment.dir/LastAssignment.cpp.obj	a65206dd774f4a06
+751	1329	640309614	LastAssignment.exe	5f42280552ec1109
+1	740	640309634	CMakeFiles/LastAssignment.dir/LastAssignment.cpp.obj	a65206dd774f4a06
+740	1011	640309634	LastAssignment.exe	5f42280552ec1109
+1	13	0	clean	fa478307b0740d8d
+1	1216	640321675	CMakeFiles/LastAssignment.dir/LastAssignment.cpp.obj	a65206dd774f4a06
+1216	1926	640321675	LastAssignment.exe	5f42280552ec1109
+1	1203	640325329	CMakeFiles/LastAssignment.dir/LastAssignment.cpp.obj	a65206dd774f4a06
+1203	1608	640325329	LastAssignment.exe	5f42280552ec1109
+0	11	0	clean	fa478307b0740d8d
+1	912	640325729	CMakeFiles/LastAssignment.dir/LastAssignment.cpp.obj	a65206dd774f4a06
+913	1663	640325730	LastAssignment.exe	5f42280552ec1109
+0	9	0	clean	fa478307b0740d8d
+1	1012	640326478	CMakeFiles/LastAssignment.dir/LastAssignment.cpp.obj	a65206dd774f4a06
+1012	1599	640326478	LastAssignment.exe	5f42280552ec1109
